@@ -1,0 +1,83 @@
+enable: true
+title: Board of Directors
+members:
+  - image: images/team/team-bethany.png
+    name: Bethany Battafarano
+    designation:
+    bio_featured: Bethany Battafarano, soprano, finds her niche in early, choral, and contemporary classical music. She has sung with The Rose Ensemble, The Mirandola Ensemble, Minnesota Chorale, Apollo Master Chorale, Oratory Bach Ensemble, and First Readings Project.
+    bio_details: With The Rose Ensemble, Battafarano celebrated the release of her first CD, “Christmas in Baroque Malta.” Battafarano is a co-founder of Border CrosSing and the treble ensemble Artemis, which performs contemporary classical music and experimental improvisation. Battafarano holds a BA in Music, Anthropology, and Psychology from Macalester College. She is currently pursuing MA Musicology and MM Voice degrees at the University of Oregon.
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team_dan.png
+    name: Dan Digre
+    designation:
+    bio_featured: Dan Digre, With a BA in music education from Augustana University, Danbegan his professional career as a choral conductor teaching high school choral music in New Ulm, MN. His interest in business and entrepreneurship led him to pursue his current career in audio and loudspeaker engineering and manufacturing. He is currently CEO of MISCO Speakers and Warkwyn Audio Labs of St. Paul.
+    bio_details: He is a past president of ALTI, (Audio & Loudspeaker Technology International). While audio is his vocation, his passion remains in choral music. He was a founding member of Karle Erickson’s World Voices in 1997. In 2009 he and several singers from World Voices created new choral ensemble, Singers in Accord, which organized around the idea of being singer-led and the ensemble collaborating as equal partners with different conductors for each concert project. In the spring of 2019, SIA worked with Ahmed Anzaldua as its guest conductor. He is currently Chair of the Board of SIA as it begins its 11th season. Dan is also a board member of the FM Christiansen Scholarship Committee and a Lifetime Member of American Choral Directors Association.
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-clara.png
+    name: Clara Osowski
+    designation:
+    bio_featured: Mezzo-soprano Clara Osowski, who sings “from inside the music with unaffected purity and sincerity” (UK Telegraph), is an active soloist and chamber musician throughout the United States and Europe. Recognized for her excellence in Minnesota, Clara was a recipient of the prestigious 2018-2019 McKnight Artist Fellowships for Musicians administered by MacPhail Center for Music.
+    bio_details: In international competition with pianist Tyler Wottrich, in March of 2017, Clara became the first-ever American prize winner when she placed second at Thomas Quasthoff’s International Das Lied Competition in Heidelberg, Germany. In September, the duo was also one of four to reach the finals in the prestigious Wigmore Hall/Kohn Foundation Song Competition in London, and Clara was awarded the Richard Tauber Prize for the best interpretation of Schubert Lieder. She recently won the Radio-Canada People’s Choice Award and third place in the song division at the 2018 Concours Musical International de Montréal. Recent recital appearances include debuts at Wigmore Hall and Tanglewood, and performance debuts with Minnesota Opera, Handel and Haydn Society, the Milwaukee Symphony Orchestra, and the Mobile Symphony Orchestra. In addition to performing, Clara serves as the Artistic Director of Source Song Festival, a week-long art song festival in Minneapolis, Minnesota. This festival strives to create and perform new art song, and cultivate an educational environment for students of song, including composers, vocalists, and collaborative pianists. Please see www.claraosowski.com for more information
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-jake.png
+    name: Jake Endres
+    designation:
+    bio_featured: Jake Endres lives in St. Paul and freelances as a singer, actor, music director, and composer.
+    bio_details: He has appeared with many regional groups, including The Minnesota Orchestra, St. Paul Chamber Orchestra, Flying Foot Forum/Guthrie Theater, Children’s Theatre Company, History Theatre, Metropolitan Symphony Orchestra, Park Square Theatre, Frank Theatre, Skylark Opera, Nautilus Music-Theater, Ten Thousand Things, Mu Performing Arts, Northern Sky Theatre, MPLS, Paul Bunyan Playhouse, and Minnesota Dance Theatre. Jake is also the proud papa of Annabelle and Gavia.
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-miluska.png
+    name: Miluska Novota
+    designation:
+    bio_featured: Miluska Novota is a lawyer practicing in the areas of consumer and small business finance. Previously, she represented the City of Chicago and the Chicago Park District where she served as Deputy General Counsel. Ms. Novota holds degrees from Augustana College, The University of Chicago, and Northwestern University.
+    bio_details:
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-natalia.png
+    name: Natalia Romero
+    designation:
+    bio_featured: Originally from Colombia Natalia Romero Arbeláez is an experienced performer, educator and musician. As an educator, she thrives in the intersection of contemporary music education and culturally relevant teaching.
+    bio_details: She is passionate about equity and musical citizenship in her classroom and performing practices.  Natalia works full time as the Choir Director at Harding Senior High School (located in St. Paul, MN) and can be found singing with the VocalEssence Ensemble Singers, and Border CrosSing, and St. Paul’s Episcopal Choir where she serves as the Treble II Lay Clerk.
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-jack.png
+    name: Jack Vishneski
+    designation:
+    bio_featured: Jack Vishneski has been with Border CrosSing from the very beginning, when Ahmed came to his house with the first ideas for the ensemble and Jack said “yeah man, let’s do it.
+    bio_details: "Since college, Jack's winding path has included has included running an audio engineering business, earning an MA in Musicology from the University of Minnesota, and consulting in corporate information technology. Jack is constantly seeking connections between his twin crafts of data and music: he currently works at Cargill as a global analytics coach. chairs the board for fellow Minnesota choir MPLS (imPulse), volunteers for TechnovationMN, and continues to champion Border CrosSing as an organizer, patron, singer, and audience member. Outside of “work,” he enjoys the simple things in life through cooking, gardening, biking and Dungeons & Dragons"
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-lisa.png
+    name: Lisa Sass Zaragoza
+    designation:
+    bio_featured: Lisa Sass Zaragoza has worked in the educational arena in both rural and urban settings as a youth worker, teacher, community organizer, school administrator and consultant. Her past work as a union organizer with migrant farmworkers, student home placement coordinator for US students studying abroad and former director of the U-Migrant Project guide and inform her current work as the Programs and Outreach Coordinator of the Department of Chicano and Latino Studies at the University of Minnesota.
+    bio_details:
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
+
+  - image: images/team/team-gilberto.png
+    name: Gilberto Vazquez Valle
+    designation:
+    bio_featured: Gilberto comes from Michoacan, Mexico. He studied Chemical Engineering at the Universidad de Guadalajara and, as a graduate student, at the University of Minnesota, where he also served as the Faculty/Technical advisor of La Raza Student Cultural Center. There, working with Chicano and Latinx students, he designed and organized hundreds of cultural and educational programs and events.
+    bio_details:
+    medium: https://www.medium.com/
+    linkedIn: https://www.linkedin.com/
+    instagram: https://www.instagram.com/
