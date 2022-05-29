@@ -1,0 +1,26 @@
+{{ with .Site.Params.banner }}
+  {{ if .enable }}
+  {{ "<!-- Site Hero Start -->" | safeHTML }}
+  <section class="site-hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto">
+          <div class="site-hero-content text-center">
+            <h4>
+              {{ .heading }}
+            </h4>
+            <h5>{{ .tagline }}</h5>
+            <div class="iframe-container">
+              <iframe src="https://www.youtube.com/embed/5l5F3nJaGlA?start=7" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a href="#counter" class="site-hero-scroll scroll-to">
+      <img src="images/arrow-down.svg" alt="arrow-down">
+    </a>
+  </section>
+  {{ "<!-- Site Hero End -->" | safeHTML }}
+  {{ end }}
+{{ end }}
